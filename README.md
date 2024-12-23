@@ -1,10 +1,9 @@
 
-# Windows Driver pack for Surface Duo platforms
+# Windows Driver pack for Surface Duo (1st Gen)
 
-![Surface Duo Dual Screen Windows](https://user-images.githubusercontent.com/3755345/197420866-d3bb0534-c848-4cc2-a242-04dae48b0f6e.png)
+![Surface Duo Dual Screen Windows](https://user-images.githubusercontent.com/3755345/170788230-a42e624a-d2ed-4070-b289-a9b34774bcd0.png)
 
-This repository contains driver binary files for Surface Duo 1 and Surface Duo 2.
-All driver binary files form a board support package to be used on Surface Duo 1 and Surface Duo 2 devices to provide hardware support for the Windows operating system.
+This repository contains driver binary files for Surface Duo (1st Gen).
 
 These driver files are not perfect, typos may exist, feel free to file an issue on GitHub in case you found any.
 
